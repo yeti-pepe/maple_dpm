@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import TimelineTest from './components/TimelineTest';
+import MainTemplate from './template/MainTemplate';
 
 function App() {
   return (
@@ -19,7 +20,8 @@ function App() {
           Learn React
         </a>
       </header> */}
-      <TimelineTest/>
+      {/* <TimelineTest/> */}
+      <MainTemplate/>
     </div>
   );
 }
