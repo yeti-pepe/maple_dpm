@@ -36,3 +36,43 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+/* --------- custom css setting ------------- */
+
+.full-app-height {
+  height: 100vh
+}
+
+.full-height {
+  height: 100%
+}
+
+.percent-80-height {
+  height: 80%
+}
+
+.percent-75-height {
+  height: 75%
+}
+
+.percent-70-height {
+  height: 70%
+}
+
+.percent-50-height {
+  height: 50%
+}
+
+.percent-30-height{
+  height: 30%
+}
+
+.percent-25-height{
+  height: 25%
+}
+
+.percent-20-height{
+  height: 20%
+}
